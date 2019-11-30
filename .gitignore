@@ -1,3 +1,4 @@
 # Java stuff
 *.idea/
 *.iml
+*out/
